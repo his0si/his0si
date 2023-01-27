@@ -3,6 +3,7 @@
 his0si](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 ---
 ### Information
+---
 
 Ewha Womans University Computer Science & Engineering \
 Ewha Womans University HOKMA College 22
