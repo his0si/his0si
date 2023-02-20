@@ -3,7 +3,7 @@
 his0si](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 [![Solved.ac
-his0si](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{his0s})
+ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{his0s})
 
 ---
 ### Information
