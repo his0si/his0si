@@ -1,10 +1,6 @@
 ### Hee Seo Kim 🌱 
 [![Solved.ac
 his0si](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-[![Solved.ac
- Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{his0s})
-
 ---
 ### Information
 - Ewha Womans University Computer Science & Engineering 
