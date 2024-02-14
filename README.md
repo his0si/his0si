@@ -1,4 +1,4 @@
-- I’m currently studying C++ and JavaScript!
+- I’m currently studying C++ and Spring!
 - Interested in problem solving and algorithm
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/his0_si/) 
